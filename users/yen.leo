@@ -313,7 +313,7 @@ print("hello")
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-Created by [s40523238](http://chiamingyen.github.io/kmolab/blog/)
+Created by [s40523234](http://chiamingyen.github.io/kmolab/blog/)
 &lt;/small&gt;
 
 [40523238](blog/index.html)
